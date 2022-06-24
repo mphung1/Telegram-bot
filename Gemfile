@@ -41,6 +41,7 @@ gem "chartkick"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
 
+gem 'telegram-bot-ruby'
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
